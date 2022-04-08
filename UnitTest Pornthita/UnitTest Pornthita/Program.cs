@@ -13,7 +13,7 @@ namespace UnitTest_Pornthita
             //calGeade(score); 
 
 
-            //4
+            //2
             //    double x1, y1, x2, y2, result;
             //Console.Write("P1(x1) = ");
             //x1 = double.Parse(Console.ReadLine());
